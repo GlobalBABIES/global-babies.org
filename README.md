@@ -1,2 +1,4 @@
 # global-babies.org
-GlobalBABIES website
+
+Files associated with the GlobalBABIES project website.
+
